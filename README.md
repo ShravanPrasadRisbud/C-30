@@ -1,2 +1,2 @@
-# C-30
-angry birds game play it and have fun!
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
